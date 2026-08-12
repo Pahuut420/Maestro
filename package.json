@@ -409,7 +409,7 @@
 		"lucide-react": "^0.303.0",
 		"patch-package": "^8.0.1",
 		"playwright": "^1.59.1",
-		"postcss": "^8.4.33",
+		"postcss": "^8.5.26",
 		"prettier": "^3.8.0",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0",
